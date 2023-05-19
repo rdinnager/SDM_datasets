@@ -13,7 +13,7 @@ Data with species occurrences of plants for France and U.S. along with covariate
 
 ## Eco-ISEA3H: A Spatial Database of Earth's Climate and Biogeography
 
-Data on hexamgonal grids for 3,030 variables (climate, human related, soil, etc.) and occurrences for 900 extant and extinct large mammals.
+Data on hexagonal grids for 3,030 variables (climate, human related, soil, etc.) and occurrences for 900 extant and extinct large mammals.
 
 **Paper:** https://www.nature.com/articles/s41597-023-01966-x
 
